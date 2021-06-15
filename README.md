@@ -6,29 +6,14 @@ You can use the [editor on GitHub](https://github.com/leeheejin0/leeheejin0.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project01 - TALAT(타랏)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+매일 매일 반복되는 하루 속에서 조금 더 편하게, 조금 더 즐겁게
+출퇴근 길을 여행으로 만들어주는 차량 공유 플랫폼
+-
+카풀 이용자들을 위한 자유로운 플랫폼 제공을 목표
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
