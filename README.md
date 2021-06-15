@@ -22,7 +22,7 @@ MariaDB, Mybatis, Spring-webMVC, Tomcat, Java, JSP, JSTL, JavaScript, BootStrap,
 드라이버와 라이더로 분류된 회원 관리
 고객 지원 서비스
 
-[프로젝트01 | TALAT](https://github.com/julie0919/teamproject-talat)
+[TALAT](https://github.com/julie0919/teamproject-talat)
 
 ```markdown
 Syntax highlighted code block
