@@ -6,9 +6,7 @@ You can use the [editor on GitHub](https://github.com/leeheejin0/leeheejin0.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Project01 - TALAT(타랏)
-
-Project01 | TALAT(타랏)
+### Project01 | TALAT(타랏)
 -
 매일 매일 반복되는 하루 속에서 조금 더 편하게, 조금 더 즐겁게
 출퇴근 길을 여행으로 만들어주는 차량 공유 플랫폼
