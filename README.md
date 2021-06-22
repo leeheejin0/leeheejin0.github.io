@@ -6,6 +6,7 @@
 ## Project01 | TALAT(타랏)
 
 [TALAT Git](https://github.com/julie0919/teamproject-talat)
+[TALAT 시연 영상](https://youtu.be/uPnPMJLimdg)
 
 출퇴근 길을 여행으로 만들어주는 차량 공유 플랫폼
 <br>
